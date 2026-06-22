@@ -1,0 +1,64 @@
+# فایل‌های محیطی و تنظیمات
+.env
+.env.local
+.env.*.local
+
+# پوشه‌های پشتیبان
+backups/
+*.backup
+*.db.backup
+
+# فایل دیتابیس
+*.db
+*.sqlite
+*.sqlite3
+bot_config.db
+
+# فایل‌های لاگ
+*.log
+bot.log
+error.log
+
+# فایل‌های موقت و کش
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# پوشه‌های تست و گزارش
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+.tox/
+
+# پوشه‌های IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# فایل‌های خروجی و موقت نمودارها
+admin_panel/charts/
+*.png
+*.jpg
+*.jpeg
+
+# فایل‌های خروجی Excel و CSV
+*.xlsx
+*.csv
+exports/
+
+# فایل‌های مستندات تولیدی
+docs/_build/
+
+# فایل‌های سیستم
+Thumbs.db
+desktop.ini
