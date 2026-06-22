@@ -1,0 +1,12 @@
+# docs/requirements.txt
+# وابستگی‌های مستندسازی
+
+Sphinx>=7.0.0
+sphinx-rtd-theme>=2.0.0
+sphinx-autodoc-typehints>=1.24.0
+sphinxcontrib-napoleon>=0.7
+sphinx-copybutton>=0.5.0
+sphinx-tabs>=3.4.0
+myst-parser>=2.0.0
+sphinx-autoapi>=3.0.0
+recommonmark>=0.7.1
